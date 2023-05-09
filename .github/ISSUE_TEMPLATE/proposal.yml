@@ -26,7 +26,7 @@ body:
     attributes:
       label: Motivation
       description: Does this issue/direction affect you directly? Or is it a wider known pain-point. 
-  validations:
+    validations:
       required: true
   - type: textarea
     id: changes
